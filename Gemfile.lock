@@ -253,6 +253,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll-feed (~> 0.12)
+  jekyll-paginate
   minimal-mistakes-jekyll
 
 BUNDLED WITH
