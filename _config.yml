@@ -60,10 +60,12 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
       comments: true
       share: true
       related: true
+      toc: true
+      toc-sticky: true
 
 paginate: 7
 paginate_path: /page:num/
