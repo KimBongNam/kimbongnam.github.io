@@ -1,6 +1,8 @@
 ---
 title: 고유벡터(Eigenvector)와 고유값(Eigenvalue)
 use_math: true
+category:
+- LA
 ---
 
 ### 고유벡터와 고유값이 가지는 의미는 뭘까 ?
